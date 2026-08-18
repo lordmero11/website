@@ -102,7 +102,7 @@ Sometimes we award bounties for suggestions for improvement that don’t fall in
 
 The size of the bounty we pay is determined on a case-by-case basis and largely depends on the severity of the issue. To be awarded a bounty, you usually need to be the first person to report an issue, although we sometimes make exceptions. Rough bounty guidelines are provided below:
 
-Minor server and app vulnerabilities that do not compromise user data or privacy: $50
+Minor server and app vulnerabilities that do not compromise user data or privacy: $100
 
 Vulnerabilities that can lead to data corruption: $200
 
